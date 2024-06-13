@@ -1,0 +1,92 @@
+[
+ {
+  "amount_usd": 0.0,
+  "chapters": [
+   {
+    "chapter": "0006 jhghgj",
+    "parent": "dfghfg",
+    "parentfield": "chapters",
+    "parenttype": "LMS Course"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "INR",
+  "description": "<div class=\"ql-editor read-mode\"><p>jggjh</p></div>",
+  "disable_self_learning": 0,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "duration": "1",
+  "enable_certification": 0,
+  "evaluator": null,
+  "expiry": 0,
+  "featured": 0,
+  "grant_certificate_after": "Completion",
+  "image": null,
+  "instructors": [
+   {
+    "instructor": "manisha21@yopmail.com",
+    "parent": "dfghfg",
+    "parentfield": "instructors",
+    "parenttype": "LMS Course"
+   }
+  ],
+  "max_attempts": 1,
+  "modified": "2024-06-04 16:08:19.425876",
+  "name": "dfghfg",
+  "paid_course": 0,
+  "published": 1,
+  "published_on": "2024-06-04",
+  "related_courses": [],
+  "short_introduction": null,
+  "status": "Approved",
+  "tags": null,
+  "title": "dfghfg",
+  "upcoming": 0,
+  "video_link": null
+ },
+ {
+  "amount_usd": 0.0,
+  "chapters": [
+   {
+    "chapter": "0001 Python",
+    "parent": "industrial-training",
+    "parentfield": "chapters",
+    "parenttype": "LMS Course"
+   }
+  ],
+  "course_price": 0.0,
+  "currency": "INR",
+  "description": "<div class=\"ql-editor read-mode\"><p>This course is meant to provide industrial training to the new interns.</p></div>",
+  "disable_self_learning": 1,
+  "docstatus": 0,
+  "doctype": "LMS Course",
+  "duration": "1",
+  "enable_certification": 0,
+  "evaluator": null,
+  "expiry": 0,
+  "featured": 0,
+  "grant_certificate_after": "Completion",
+  "image": null,
+  "instructors": [
+   {
+    "instructor": "manisha21@yopmail.com",
+    "parent": "industrial-training",
+    "parentfield": "instructors",
+    "parenttype": "LMS Course"
+   }
+  ],
+  "max_attempts": 1,
+  "modified": "2024-06-05 12:41:49.336025",
+  "name": "industrial-training",
+  "paid_course": 0,
+  "published": 0,
+  "published_on": null,
+  "related_courses": [],
+  "short_introduction": null,
+  "status": "In Progress",
+  "tags": null,
+  "title": "Industrial Training",
+  "upcoming": 0,
+  "video_link": null
+ }
+]

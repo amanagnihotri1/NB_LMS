@@ -28,7 +28,8 @@ app_license = "mit"
 # page_js = {"page" : "public/js/file.js"}
 
 # include js in doctype views
-# doctype_js = {"doctype" : "public/js/doctype.js"}
+doctype_js = {"LMS Batch" : "public/js/lms_batch.js"}
+doctype_js = {"LMS Course" : "public/js/lms_course.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
@@ -114,19 +115,21 @@ app_license = "mit"
 # ---------------
 # Override standard doctype classes
 
-# override_doctype_class = {
-# 	"ToDo": "custom_app.overrides.CustomToDo"
-# }
+override_doctype_class = {
+	# "ToDo": "custom_app.overrides.CustomToDo",
+    "Job Opportunity":"nb_lms.overrides.job_opportunity.JobOpportunity"
+}
 
 # Document Events
 # ---------------
 # Hook on document methods and events
 
 # doc_events = {
-# 	"*": {
-# 		"on_update": "method",
-# 		"on_cancel": "method",
-# 		"on_trash": "method"
+# 	"Job Opportunity": {
+# 		# "on_update": "method",
+#         # "validate":"nb_lms.overrides.job_opportunity.validate_data",
+# 		# "on_cancel": "method",
+# 		# "on_trash": "method"
 # 	}
 # }
 
@@ -227,3 +230,4 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = ["LMS Badge","Property Setter","Role Profile","LMS Course","LMS Batch","Course Chapter","Course Lesson","LMS Question","LMS Assignment"]

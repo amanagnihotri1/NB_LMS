@@ -1,0 +1,129 @@
+[
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 0,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "category": null,
+  "courses": [
+   {
+    "course": "industrial-training",
+    "evaluator": null,
+    "parent": "CLS-00004",
+    "parentfield": "courses",
+    "parenttype": "LMS Batch",
+    "title": "Industrial Training"
+   }
+  ],
+  "currency": "INR",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "This batch commences on June. 2024\nBatch comprises of Vivan",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2024-06-28",
+  "end_time": "19:00:00",
+  "evaluation_end_date": "2024-06-29",
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2024-06-04 11:15:28.008229",
+  "name": "CLS-00004",
+  "paid_batch": 0,
+  "published": 0,
+  "seat_count": 0,
+  "show_live_class": 0,
+  "start_date": "2024-06-03",
+  "start_time": "10:00:00",
+  "students": [
+   {
+    "confirmation_email_sent": 1,
+    "parent": "CLS-00004",
+    "parentfield": "students",
+    "parenttype": "LMS Batch",
+    "payment": null,
+    "source": null,
+    "student": "vivan@yopmail.com",
+    "student_name": "Vivan",
+    "username": "vivan"
+   }
+  ],
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "title": "Nestorbird June"
+ },
+ {
+  "allow_future": 1,
+  "allow_self_enrollment": 0,
+  "amount": 0.0,
+  "amount_usd": 0.0,
+  "assessment": [],
+  "category": null,
+  "courses": [
+   {
+    "course": "industrial-training",
+    "evaluator": "pdahiya@gmail.com",
+    "parent": "CLS-00005",
+    "parentfield": "courses",
+    "parenttype": "LMS Batch",
+    "title": "Industrial Training"
+   },
+   {
+    "course": "dfghfg",
+    "evaluator": null,
+    "parent": "CLS-00005",
+    "parentfield": "courses",
+    "parenttype": "LMS Batch",
+    "title": "dfghfg"
+   }
+  ],
+  "currency": "INR",
+  "custom_component": null,
+  "custom_script": null,
+  "description": "Ay Btcg",
+  "docstatus": 0,
+  "doctype": "LMS Batch",
+  "end_date": "2024-07-17",
+  "end_time": "17:00:00",
+  "evaluation_end_date": "2024-07-18",
+  "medium": "Online",
+  "meta_image": null,
+  "modified": "2024-06-04 18:16:02.420960",
+  "name": "CLS-00005",
+  "paid_batch": 0,
+  "published": 1,
+  "seat_count": 20,
+  "show_live_class": 0,
+  "start_date": "2024-06-06",
+  "start_time": "10:00:00",
+  "students": [
+   {
+    "confirmation_email_sent": 1,
+    "parent": "CLS-00005",
+    "parentfield": "students",
+    "parenttype": "LMS Batch",
+    "payment": null,
+    "source": null,
+    "student": "vivan@yopmail.com",
+    "student_name": "Vivan",
+    "username": "vivan"
+   },
+   {
+    "confirmation_email_sent": 1,
+    "parent": "CLS-00005",
+    "parentfield": "students",
+    "parenttype": "LMS Batch",
+    "payment": null,
+    "source": null,
+    "student": "manisha21@yopmail.com",
+    "student_name": "Manisha",
+    "username": "manisha"
+   }
+  ],
+  "timetable": [],
+  "timetable_legends": [],
+  "timetable_template": null,
+  "title": "Frappe Batch July"
+ }
+]

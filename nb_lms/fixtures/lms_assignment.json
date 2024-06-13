@@ -1,0 +1,14 @@
+[
+ {
+  "answer": null,
+  "docstatus": 0,
+  "doctype": "LMS Assignment",
+  "grade_assignment": 1,
+  "modified": "2024-06-04 11:06:51.876410",
+  "name": "ASG-00003",
+  "question": "<div class=\"ql-editor read-mode\"><p>Create a python project to scrap data from a dynamic website and store it in postgresql. Then fetch it from database and store in CSV file</p></div>",
+  "show_answer": 0,
+  "title": "Python assignment",
+  "type": "URL"
+ }
+]

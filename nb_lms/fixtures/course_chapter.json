@@ -1,0 +1,73 @@
+[
+ {
+  "assignment": null,
+  "course": "industrial-training",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "lessons": [],
+  "modified": "2024-06-04 16:07:28.688362",
+  "name": "0006 jhghgj",
+  "title": "jhghgj"
+ },
+ {
+  "assignment": "ASG-00003",
+  "course": "industrial-training",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Course Chapter",
+  "lessons": [
+   {
+    "lesson": "0002 Data types",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   },
+   {
+    "lesson": "0007 Data Type Conversion",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   },
+   {
+    "lesson": "0008 Data Structures (list, tuple, dict, sets)",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   },
+   {
+    "lesson": "0009 Classes and Objects",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   },
+   {
+    "lesson": "0010 Inheriting a Class and its Object",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   },
+   {
+    "lesson": "0011 Using Super in Classes",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   },
+   {
+    "lesson": "0012 Monkey Patching",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   },
+   {
+    "lesson": "0013 Function Overriding",
+    "parent": "0001 Python",
+    "parentfield": "lessons",
+    "parenttype": "Course Chapter"
+   }
+  ],
+  "modified": "2024-06-05 12:44:20.789611",
+  "name": "0001 Python",
+  "title": "Python"
+ }
+]
